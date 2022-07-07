@@ -23,7 +23,7 @@
         <!-- random number: -->
         <!-- "{{ random_number }}" -->
         <!-- , offering -->
-        your block choices
+        your block choices editeds
         :
         <div id="block_offering">
             <div id="block_offering_array_rendering" v-for="item in selectionArray" v-bind:key="item.id">
